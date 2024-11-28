@@ -1,0 +1,37 @@
+{
+    "shops": [
+      {
+        "id": 1,
+        "name": "Mama Gina",
+        "logo": "/path-to-logo/mama-gina.png",
+        "description": "All your favorite hardware",
+        "status": "Inactive"
+      },
+      {
+        "id": 2,
+        "name": "Next Door",
+        "logo": "/path-to-logo/next-door.png",
+        "description": "All your favorite hardware",
+        "status": "Active"
+      }
+    ],
+    "products": [
+      {
+        "id": 1,
+        "image": "/banana.png",
+        "name": "Banana",
+        "description": "Fresh bananas",
+        "price": 500,
+        "status": "In-Stock"
+      },
+      {
+        "id": 2,
+        "image": "/monkey.png",
+        "name": "Monkey",
+        "description": "Fun monkey",
+        "price": 500,
+        "status": "Low Stock"
+      }
+    ]
+  }
+  
